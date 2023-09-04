@@ -34,7 +34,7 @@ Fique a vontade para utilizar os frameworks e padrões que desejar, porém se li
 *Swagger* </br>
 *Docker* </br>
 *Injeção de dependencia (Autofac)* </br>
-*PostgreSQL* </br>
+*SQL Server* </br>
 *FluentValidator* </br>
 *FluentAssertions* </br>
 *TDD* </br>
