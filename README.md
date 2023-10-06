@@ -18,6 +18,7 @@ Criar um projeto em .NetCore, com api's rest para atender ao cadastro de cliente
 Regras de negocio:
 
 O mesmo cliente não pode ser cadastrado duas vezes. </br>
+O CPF deve ser valido: </br>
 O cliente deve ser composto com as seguintes informações: </br>
 
 	- Nome Completo
